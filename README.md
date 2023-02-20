@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chau, a Ph.D. student at Boston University.
 - 👀 I’m interested in Machine Learning
-- 🌐 My personal website:  [chaudatascience.github.io](https://chaudatascience.github.io/)
+- 🌐 My personal website:  [mchaupham.com](https://mchaupham.com/)
 - 📫 You can reach me at *chaupham* [at] *bu* [dot] *edu*, and Twitter @chaudatascience
 
 <!---
