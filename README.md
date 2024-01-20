@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chau, a Ph.D. student at Boston University.
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning.
 - 🌐 My personal website:  [mchaupham.com](https://mchaupham.com/)
-- 📫 You can reach me at *chaupham* [at] *bu* [dot] *edu*, and Twitter @chaudatascience
+- 📫 You can reach me at *chaupham* [at] *bu* [dot] *edu*.
 
 <!---
 chaudatascience/chaudatascience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
